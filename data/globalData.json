@@ -1,77 +1,118 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Foster Orthodontics",
+  "domain": "fosterortho.com",
+  "email": "info@fosterortho.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "(318) 750-2762",
+    "href": "tel:+13187502762",
+    "aria": "3 1 8, 7 5 0, 2 7 6 2"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "Shreveport",
       "address": {
-        "street": "9650 Main Street",
-        "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "street": "1914 E. 70th St., #H",
+        "suite": "Suite H",
+        "city_state": "Shreveport, LA 71105",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "",
+          "latitude": ""
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "",
+        "href": ""
       },
-      "email": "info@mandtortho.com",
+      "email": "info@fosterortho.com",
       "hours": [
         {
           "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
+          "time": "Closed"
         },
         {
-          "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Tuesday - Thursday",
+          "time": "8:00 AM - 5:00 PM"
         },
         {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
-        },
-        {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
-        },
-        {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Friday - Sunday",
+          "time": "Closed"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
+        "href": "https://www.google.com/maps?cid=3909786053185915850",
         "label": "Get Directions"
       },
       "special_note": ""
     },
     {
-      "title": "Tonawanda Office",
+      "title": "Bossier City",
       "address": {
-        "street": "1077 Delaware Rd",
+        "street": "3011 Airline Dr.",
         "suite": "",
-        "city_state": "Tonawanda, NY 14223",
+        "city_state": "Bossier City, LA 71111",
         "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
+          "longitude": "-93.7102789",
+          "latitude": "32.5561049"
         }
       },
       "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
+        "number": "",
+        "href": ""
       },
-      "email": "info@mandtortho.com",
-      "hours": [],
+      "email": "info@fosterortho.com",
+      "hours": [
+        {
+          "day": "Monday",
+          "time": "Closed"
+        },
+        {
+          "day": "Tuesday - Thursday",
+          "time": "8:00 AM - 5:00 PM"
+        },
+        {
+          "day": "Friday - Sunday",
+          "time": "Closed"
+        }
+      ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps?cid=8702728853343957314",
+        "label": "Get Directions"
+      },
+      "special_note": ""
+    },
+    {
+      "title": "Stonewall",
+      "address": {
+        "street": "128 Diane Lane, Suite A",
+        "suite": "Suite A",
+        "city_state": "Stonewall, LA 71078",
+        "coordinates": {
+          "longitude": "",
+          "latitude": ""
+        }
+      },
+      "phone": {
+        "number": "",
+        "href": ""
+      },
+      "email": "info@fosterortho.com",
+      "hours": [
+        {
+          "day": "Monday",
+          "time": "Closed"
+        },
+        {
+          "day": "Tuesday - Thursday",
+          "time": "8:00 AM - 5:00 PM"
+        },
+        {
+          "day": "Friday - Sunday",
+          "time": "Closed"
+        }
+      ],
+      "directions_link": {
+        "href": "https://www.google.com/maps?cid=2573051089999321872",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -94,28 +135,28 @@
     "content_alignment": "right",
     "links": [
       {
-        "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "icon": "tooth-two-v2",
+        "text": "1914 E. 70th St., #H, Shreveport, LA 71105",
+        "href": "https://www.google.com/maps?cid=3909786053185915850",
+        "label": "View 1914 E. 70th St., #H, Shreveport, LA 71105 on Google Maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "(318) 750-2762",
+        "href": "tel:+13187502762",
+        "label": "Call (318) 750-2762",
         "new_window": false
       }
     ],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "label": "Welcome to Foster Orthodontics",
+      "text": "State-of-the-art orthodontics for children, teens, and adults across Shreveport, Bossier City, and Stonewall. Schedule a complimentary consultation today.",
+      "mobile_text": "Schedule a Consultation",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "Welcome to Foster Orthodontics",
+        "text": "Since 1985, Foster Orthodontics has combined experienced doctors with modern technology to provide personalized, comfortable orthodontic care. Call (318) 750-2762 or use the contact form to schedule a complimentary consultation."
       }
     }
   },
@@ -150,7 +191,15 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
+        "href": "https://www.facebook.com/fosterorthodontics/",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://www.instagram.com/fosterorthodontics/",
+        "icon": "instagram"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=jzz5x0dlMiI",
         "icon": "youtube"
       }
     ],
@@ -158,12 +207,12 @@
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
+    "title": "Welcome to Foster Orthodontics",
     "text": "",
     "image": {
-      "src": "",
+      "src": "https://www.fosterortho.com/assets/images/pg1-home.2502101405297.jpg",
       "webp": "",
-      "alt": "",
+      "alt": "Foster Orthodontics office",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
@@ -171,7 +220,9 @@
       "objectPosition": "",
       "forceAlt": "",
       "loading_mask": "",
-      "image_selection_hints": null
+      "image_selection_hints": {
+        "context_category": "Contact Hero"
+      }
     }
   }
 }
